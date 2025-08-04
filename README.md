@@ -10,7 +10,16 @@ This website provides a comprehensive view of Product Team responsibilities orga
 - **C** - Cross-team Execution (沟通)
 - **E** - Evaluate & Iterate (评估)
 
-## Quick Start
+## Access the Hub
+
+### Live Website (Recommended)
+The PT Jobs Hub is deployed and accessible via GitHub Pages:
+
+🌐 **https://tom-dynamsoft.github.io/pt-jobs-hub/**
+
+No setup required - simply visit the link above to explore the M.A.C.E. framework and all Product Team outcomes.
+
+## Local Development
 
 ### Prerequisites
 - Node.js (version 12 or higher)
