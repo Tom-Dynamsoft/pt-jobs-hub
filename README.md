@@ -5,10 +5,10 @@ A central hub website for viewing all aspects of Product Team (PT) jobs using th
 ## Overview
 
 This website provides a comprehensive view of Product Team responsibilities organized around the M.A.C.E. framework:
-- **M** - Market Insight (要什么)
-- **A** - Aim & Roadmap (做什么)
-- **C** - Cross-team Execution (沟通)
-- **E** - Evaluate & Iterate (评估)
+- **M** - Market Insight
+- **A** - Aim & Roadmap
+- **C** - Cross-team Execution
+- **E** - Evaluate & Iterate
 
 ## Access the Hub
 
